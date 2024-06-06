@@ -1,0 +1,56 @@
+/* Reset Geral */
+
+/* Margens e Preenchimentos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilo Padrão de Elementos */
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, blockquote, figure, figcaption, form, fieldset, legend, textarea, pre, iframe, hr, table, caption, thead, tbody, tfoot, tr, th, td, article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+    margin: 0;
+    padding: 0;
+}
+
+/* Remover decoração de link */
+a {
+    text-decoration: none;
+}
+
+/* Listas */
+ul, ol {
+    list-style: none;
+}
+
+/* Remover margem padrão do body */
+body {
+    margin: 0;
+}
+
+/* Remover estilo padrão para input, textarea e botão */
+input, textarea, button {
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    font-family: inherit;
+}
+
+/* Remover estilo padrão para imagens */
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Remover estilo padrão para elementos de formulário */
+button, input, select, textarea {
+    font: inherit;
+    color: inherit;
+}
+
+/* Redefinir estilo padrão para elementos semânticos */
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+    display: block;
+}

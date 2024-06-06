@@ -1,0 +1,26 @@
+:root {
+    /* Fontes */
+    --fonte-titulo: 'Roboto', sans-serif;
+    --fonte-corpo: 'Arial', sans-serif;
+
+    /* Cores gerais */
+    --cor-primaria: #007bff; /* Azul */
+    --cor-secundaria: #6c757d; /* Cinza */
+
+    /* Cores da AJF*/
+    --cor-texto-primaria: #333; /* Texto escuro */
+    --cor-texto-secundaria: #666; /* Texto mais claro */
+
+    /* Cores da CAMASSUTI */
+    --cor-texto-primaria: #333; /* Texto escuro */
+    --cor-texto-secundaria: #666; /* Texto mais claro */
+
+    /* Cores da ALROSA */
+    --cor-fundo: #fff; /* Branco */
+    --cor-fundo-secundaria: #f8f9fa; /* Cinza claro */
+
+    /* Cores da ANAJU */
+    --cor-realce-sucesso: #28a745; /* Verde */
+    --cor-realce-erro: #dc3545; /* Vermelho */
+    --cor-realce-alerta: #ffc107; /* Amarelo */
+}
